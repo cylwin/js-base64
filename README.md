@@ -3,6 +3,13 @@
 # base64.js
 
 Yet another Base64 transcoder
+## install
+
+With [npm](https://npmjs.org) do:
+`npm install js-base64`
+
+With [bower](http://bower.io/) do:
+`bower install js-base64`
 
 ## Usage
 
